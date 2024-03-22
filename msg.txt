@@ -1,1 +1,1 @@
-{"msg":"Hello everyone!"}
+{"title":"GEN","msg":"Hello everyone!"}
