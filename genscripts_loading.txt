@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Resolved image sizing bugs."}
+{"version":"1.0.1","news":"Resolved image sizing bugs"}
